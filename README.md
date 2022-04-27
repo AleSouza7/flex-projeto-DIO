@@ -1,2 +1,2 @@
 # flex-projeto-DIO
-Project experimental (Estilizando Flexbox)
+<hr>Project experimental (Estilizando Flexbox)
